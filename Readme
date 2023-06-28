@@ -1,0 +1,10 @@
+############ Steps you have to follow ##############
+1. In Backend Folder :
+  a. In terminal : run npm i to install the node_modules.
+  b. Open terminal and run : node index.js (running on port no. 3000)
+2. In Frontend Folder : 
+  a. In terminal : run npm i or yarn to install node_modules. (check whether the nodemodule folder is available or not after the completion of the command)
+  b. Open terminal and run : npm run json-server (run on 3001 port)
+  c. Open new terminal and run : npm start (run on port 3002)
+3. Cors issue resolved
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir=~/chromeTempRepo

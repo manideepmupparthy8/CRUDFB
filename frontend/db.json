@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "empName": "Chetan Mishra",
+      "empEmail": "c@yopmail.com",
+      "password": "123123123",
+      "gender": "Male",
+      "designation": "developer",
+      "technology": "Python",
+      "subTechnology": "Django",
+      "date": "2023-06-13",
+      "file": {
+        "0": {}
+      },
+      "id": 40
+    },
+    {
+      "empName": "Sachin ",
+      "empEmail": "s@yopmail.com",
+      "password": "123123123123",
+      "gender": "Male",
+      "designation": "developer",
+      "technology": "React",
+      "subTechnology": "React Native",
+      "date": "2023-06-14",
+      "file": {
+        "0": {}
+      },
+      "id": 41
+    },
+    {
+      "empName": "amber dube",
+      "empEmail": "ab@yopmail.com",
+      "password": "asdasdasd",
+      "gender": "Male",
+      "designation": "developer",
+      "technology": "React",
+      "subTechnology": "React Native",
+      "date": "2023-06-22",
+      "file": {
+        "0": {}
+      },
+      "id": 42
+    },
+    {
+      "empName": "newtest",
+      "empEmail": "new@yopmail.com",
+      "password": "n32123123",
+      "gender": "Female",
+      "designation": "developer",
+      "technology": ".Net",
+      "subTechnology": "ASP.Net",
+      "date": "2023-06-14",
+      "file": {
+        "0": {}
+      },
+      "id": 43
+    },
+    {
+      "empName": "sachin",
+      "empEmail": "sachin@yopmail.com",
+      "password": "123",
+      "gender": "Male",
+      "designation": "junior",
+      "technology": "Python",
+      "subTechnology": "Spring",
+      "date": "2023-05-31",
+      "file": {
+        "0": {}
+      },
+      "id": 44
+    },
+    {
+      "empName": "hyma",
+      "empEmail": "hyma@gmail.com",
+      "password": "hymahyma",
+      "gender": "Female",
+      "designation": "junior",
+      "technology": "Python",
+      "subTechnology": "Django",
+      "date": "2023-06-14",
+      "file": {
+        "0": {}
+      },
+      "id": 45
+    },
+    {
+      "empName": "Hello",
+      "empEmail": "hello@gmail.com",
+      "password": "hhhhhhhhhhh",
+      "gender": "Male",
+      "designation": "senior",
+      "technology": ".Net",
+      "subTechnology": "ASP.Net",
+      "date": "2023-06-27",
+      "file": {
+        "0": {}
+      },
+      "id": 46
+    },
+    {
+      "empName": "Harsha",
+      "empEmail": "harsha@gmail.com",
+      "password": "hhhhhhhhhh",
+      "gender": "Male",
+      "designation": "junior",
+      "technology": "Python",
+      "subTechnology": "Django",
+      "date": "2023-06-28",
+      "file": {
+        "0": {}
+      },
+      "id": 47
+    },
+    {
+      "empName": "Havish",
+      "empEmail": "Havish@gmail.com",
+      "password": "hhhhhhhhhhh",
+      "gender": "Male",
+      "designation": "developer",
+      "technology": "Python",
+      "subTechnology": "Django",
+      "date": "2023-06-30",
+      "file": {
+        "0": {}
+      },
+      "id": 48
+    },
+    {
+      "empName": "Deepak",
+      "empEmail": "Deepak@gmail.com",
+      "password": "ddddddddddd",
+      "gender": "Male",
+      "designation": "junior",
+      "technology": "Python",
+      "subTechnology": "Django",
+      "date": "2023-07-01",
+      "file": {
+        "0": {}
+      },
+      "id": 49
+    }
+  ],
+  "technologies": [
+    {
+      "designation": "senior",
+      "technologies": [
+        ".Net",
+        "Java"
+      ]
+    },
+    {
+      "designation": "junior",
+      "technologies": [
+        "Python"
+      ]
+    },
+    {
+      "designation": "developer",
+      "technologies": [
+        ".Net",
+        "Java",
+        "Python",
+        "React",
+        "Angular"
+      ]
+    }
+  ],
+  "sub-technologies": [
+    {
+      "technology": ".Net",
+      "subTechnologies": [
+        "ASP.Net",
+        "Spring"
+      ]
+    },
+    {
+      "technology": "Java",
+      "subTechnologies": [
+        "Spring"
+      ]
+    },
+    {
+      "technology": "Python",
+      "subTechnologies": [
+        "Django"
+      ]
+    },
+    {
+      "technology": "React",
+      "subTechnologies": [
+        "React Native"
+      ]
+    },
+    {
+      "technology": "Angular",
+      "subTechnologies": [
+        "AngularJS"
+      ]
+    }
+  ]
+}

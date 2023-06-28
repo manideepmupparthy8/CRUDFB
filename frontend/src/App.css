@@ -1,0 +1,64 @@
+.select {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  /* background-color: #f2f2f2; */
+  border: 1px solid #ccc;
+  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.3) */
+}
+
+.but {
+  width: 100px;
+  margin-right: 8px;
+  float: right;
+}
+
+.bu {
+  width: 35px;
+  margin-right: 30px;
+  height: 36px;
+}
+
+Table {
+  margin-left: 20px;
+  max-width: 97.1%;
+}
+
+.search {
+  width: 19%;
+  float: right;
+  margin-right: 7%;
+  margin-top: -60px;
+}
+
+.pagination {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.subBut{
+  margin-top: 2rem !important;
+}
+
+.pagination li {
+  margin: 0 5px;
+}
+
+.pagination li button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+}
+
+.pagination li.active button {
+  background-color: #333;
+  color: #fff;
+}
+
+.download-btn{
+  width: 50%;
+}

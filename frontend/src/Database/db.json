@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "empName": "mk",
+      "empEmail": "mk@gmail.com",
+      "password": "kkkkkkkkkkk",
+      "gender": "Female",
+      "designation": "DBA",
+      "technologies": [
+        "Python"
+      ],
+      "id": 2,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "maaya",
+      "empEmail": "maaya@gmail.com",
+      "password": "lllllllll",
+      "gender": "Female",
+      "designation": "DBA",
+      "technologies": [
+        ".Net"
+      ],
+      "id": 6,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "saha",
+      "empEmail": "saha@gmail.com",
+      "password": "sssssss",
+      "gender": "Female",
+      "designation": "QA",
+      "technologies": [
+        "React"
+      ],
+      "id": 7,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "laha",
+      "empEmail": "laha@gmail.com",
+      "password": "llllllll",
+      "gender": "Female",
+      "designation": "QA",
+      "technologies": [
+        "React"
+      ],
+      "id": 8,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "maha",
+      "empEmail": "maha@gmail.com",
+      "password": "ttttttttttt",
+      "gender": "Male",
+      "designation": "Developer",
+      "technologies": [
+        ".Net"
+      ],
+      "id": 9,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "poha",
+      "empEmail": "poha@gmail.com",
+      "password": "ppppppppp",
+      "gender": "Male",
+      "designation": "QA",
+      "technologies": [
+        ".Net",
+        "Python"
+      ],
+      "id": 10,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "Chetan Mishra ",
+      "empEmail": "chetan@yopmail.com",
+      "password": "chetan@123",
+      "gender": "Male",
+      "designation": "Developer",
+      "technologies": [
+        "React"
+      ],
+      "date": "2023-06-22",
+      "file": {
+        "0": {}
+      },
+      "id": 11,
+      "fileName": "",
+      "dateOfRegistration": ""
+    },
+    {
+      "empName": "Ishika ",
+      "empEmail": "ishika@yopmail.com",
+      "password": "ishika@123",
+      "gender": "Female",
+      "designation": "DBA",
+      "technologies": [
+        ".Net"
+      ],
+      "date": "2023-06-08",
+      "file": {
+        "0": {}
+      },
+      "id": 12
+    },
+    {
+      "empName": "Amber",
+      "empEmail": "amber@yopmail.com",
+      "password": "amver1234",
+      "gender": "Male",
+      "designation": "Software developer",
+      "technologies": [
+        "Python"
+      ],
+      "date": "2023-06-08",
+      "file": {
+        "0": {}
+      },
+      "id": 13
+    },
+    {
+      "empName": "Anmol",
+      "empEmail": "anmol@yopmail.com",
+      "password": "anmol123123",
+      "gender": "Male",
+      "designation": "Software Engineer",
+      "technologies": [
+        "React"
+      ],
+      "date": "2023-06-22",
+      "file": {
+        "0": {}
+      },
+      "id": 14
+    }
+  ],
+  "designations": [
+    {
+      "id": 1,
+      "name": "Senior Manager"
+    },
+    {
+      "id": 2,
+      "name": "Junior Manager"
+    },
+    {
+      "id": 3,
+      "name": "Developer"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "name": "Java",
+      "designationId": 1
+    },
+    {
+      "id": 2,
+      "name": ".Net",
+      "designationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "designationId": 1
+    },
+    {
+      "id": 4,
+      "name": "React",
+      "designationId": 2
+    },
+    {
+      "id": 5,
+      "name": "Angular",
+      "designationId": 2
+    },
+    {
+      "id": 6,
+      "name": "Node.js",
+      "designationId": 2
+    },
+    {
+      "id": 7,
+      "name": "C#",
+      "designationId": 3
+    },
+    {
+      "id": 8,
+      "name": "PHP",
+      "designationId": 3
+    }
+  ],
+  "subTechnologies": [
+    {
+      "id": 1,
+      "name": "Spring Boot",
+      "technologyId": 1
+    },
+    {
+      "id": 2,
+      "name": "Hibernate",
+      "technologyId": 1
+    },
+    {
+      "id": 3,
+      "name": "ASP.NET",
+      "technologyId": 2
+    },
+    {
+      "id": 4,
+      "name": "Django",
+      "technologyId": 3
+    },
+    {
+      "id": 5,
+      "name": "Flask",
+      "technologyId": 3
+    },
+    {
+      "id": 6,
+      "name": "Redux",
+      "technologyId": 4
+    },
+    {
+      "id": 7,
+      "name": "Vue.js",
+      "technologyId": 4
+    },
+    {
+      "id": 8,
+      "name": "ASP.NET Core",
+      "technologyId": 3
+    },
+    {
+      "id": 9,
+      "name": "Express.js",
+      "technologyId": 6
+    }
+  ]
+}
